@@ -1,5 +1,7 @@
 # utilcss-layout
 
+[![npm version](https://badge.fury.io/js/utilcss-layout.svg)](http://badge.fury.io/js/utilcss-layout)
+
 ## Display 
 ```
 .dib display: inline-block;
